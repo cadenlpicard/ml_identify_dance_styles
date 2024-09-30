@@ -1,4 +1,13 @@
-# Dance Video Dataset
+
+## The data set containing the videos and video frames for training and annotation are located here: 
+
+🟦 Labeled Videos: https://drive.google.com/drive/folders/1rBUlG7zEtPgCCm9iOprdDFb86dApdbhh?usp=sharing
+
+## The annotation guidelines for data is located here: 
+
+📹 Annotation Guidelines: https://github.com/cadenlpicard/ml_identify_dance_styles/wiki/Dance-Videos:-Annotation-Guidelines
+
+⬛ Unlabeled Videos: https://drive.google.com/drive/folders/1Pdg_UXo0h14wugqprdoWABCkNpcBp4F7?usp=sharing
 
 ## Dataset Overview
 
