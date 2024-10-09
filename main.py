@@ -10,7 +10,7 @@ from googleapiclient.discovery import build
 
 # Set up YouTube API
 def setup_youtube_api():
-    api_key = 'AIzaSyAOfZGWcCVzyFFE_wF6DFZ6CPsoYgxlyzc'
+    api_key = 'api_key_here'
     return build('youtube', 'v3', developerKey=api_key)
 
 # Create a directory if it doesn't exist
